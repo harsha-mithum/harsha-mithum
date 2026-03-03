@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Harsha%20Premarathna&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20React%20Native%20%26%20Web&descAlignY=58&descSize=18" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Harsha%20Premarathna&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20React%20Native%20&%20Web&descAlignY=58&descSize=18)
 
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-mithum/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsha-mithum)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshamithum@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/harsha-mithum)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://harshapremarathna.com)
 
   <br/>
 
